@@ -1,2 +1,2 @@
-[LINK](https://github.com/The-DigitalAcademy/selina-football.git/)
+[LINK](https://the-digitalacademy.github.io/selina-football/)
 
