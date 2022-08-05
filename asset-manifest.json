@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/selina-football/static/css/main.c4d110fe.css",
-    "main.js": "/selina-football/static/js/main.016e24da.js",
+    "main.css": "/selina-football/static/css/main.61ed1078.css",
+    "main.js": "/selina-football/static/js/main.bfcab0bb.js",
     "index.html": "/selina-football/index.html",
-    "main.c4d110fe.css.map": "/selina-football/static/css/main.c4d110fe.css.map",
-    "main.016e24da.js.map": "/selina-football/static/js/main.016e24da.js.map"
+    "main.61ed1078.css.map": "/selina-football/static/css/main.61ed1078.css.map",
+    "main.bfcab0bb.js.map": "/selina-football/static/js/main.bfcab0bb.js.map"
   },
   "entrypoints": [
-    "static/css/main.c4d110fe.css",
-    "static/js/main.016e24da.js"
+    "static/css/main.61ed1078.css",
+    "static/js/main.bfcab0bb.js"
   ]
 }
