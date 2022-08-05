@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/project-name/static/css/main.073c9b0a.css",
-    "main.js": "/project-name/static/js/main.9b8cbcec.js",
-    "index.html": "/project-name/index.html",
-    "main.073c9b0a.css.map": "/project-name/static/css/main.073c9b0a.css.map",
-    "main.9b8cbcec.js.map": "/project-name/static/js/main.9b8cbcec.js.map"
+    "main.css": "/The-DigitalAcademy/selina-football.git/static/css/main.073c9b0a.css",
+    "main.js": "/The-DigitalAcademy/selina-football.git/static/js/main.9b8cbcec.js",
+    "index.html": "/The-DigitalAcademy/selina-football.git/index.html",
+    "main.073c9b0a.css.map": "/The-DigitalAcademy/selina-football.git/static/css/main.073c9b0a.css.map",
+    "main.9b8cbcec.js.map": "/The-DigitalAcademy/selina-football.git/static/js/main.9b8cbcec.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
