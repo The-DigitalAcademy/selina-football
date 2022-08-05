@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
-import "react-loader-spinner/dist/loader/css/react-spinner-loader.css";
-import Loader from "react-loader-spinner";
+// import "react-loader-spinner/dist/loader/css/react-spinner-loader.css";
+// import Loader from "react-loader-spinner";
 import axios from "axios";
 const Standings = () => {
   const [data, setData] = useState([]);
@@ -74,7 +74,7 @@ const Standings = () => {
       </div>
 
       <div className="Standing-results">
-        {loading ? (
+        {/* {loading ? (
          <Loader type="Circles" color="#00BFFF" height={80} width={80} />
         ) : (
           data?.map((data, index) => (
@@ -92,7 +92,7 @@ const Standings = () => {
               </h1>
             </div>
           ))
-        )}
+        )} */}
       </div>
     </div>
   ); 
