@@ -76,6 +76,14 @@
   width: 250px;
 }
 
+/* .standing-results{
+   
+} */
+
+.standing-info-div > img{
+   width: 30px;
+}
+
 .league-div:hover {
   transform: scale(1.1);
 }

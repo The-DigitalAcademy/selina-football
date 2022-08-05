@@ -10,19 +10,19 @@ const Leagues = () => {
   useEffect(() => {
     axios
       .get("https://api-football-standings.azharimm.site/leagues")
-      .then((response) => {
-        console.log(response.data.data);
-        setData(response.data.data);
+      .then((res) => {
+        console.log(res.data.data);
+        setData(res.data.data);
       })
       .catch((err) => console.log(err));
   }, []);
 
   return (
     <div className="leagues-container">
-      {data?.map((league) => (
-        <div key={league.id} className="league-div">
-          <img src={league.logos.light} alt="#" />
-          <h4>{league.name}</h4>
+      {data?.map((data) => (
+        <div key={data.id} className="league-div">
+          <img src={data.logos.light} alt="#" />
+          <h1>{data.name}</h1>
         </div>
       ))}
     </div>
