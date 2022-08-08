@@ -96,6 +96,8 @@ const Standings = () => {
             ))
           )}
         </div> */}
+
+        {data?.length > 0 && data.map((d, index) => <div key={index}>{d.team.displayName}</div>)}
       </div>
       <div className="standing-results"></div>
     </div>
